@@ -44,3 +44,12 @@ The Digital Twin system uses **K-means clustering** to segment users into person
    ```bash
    pip install -r requirements.txt
    ```
+
+## 🔧 Running the Code
+
+To run the example demonstration:
+
+```bash
+python Digital_Twin.py
+```
+
