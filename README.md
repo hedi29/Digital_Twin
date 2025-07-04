@@ -23,7 +23,7 @@ The Digital Twin system uses **K-means clustering** to segment users into person
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd Spiking_Jelly
+   cd Digital_Twin
    ```
 
 2. **Create a virtual environment**
